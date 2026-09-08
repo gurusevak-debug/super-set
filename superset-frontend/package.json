@@ -300,7 +300,7 @@
     "concurrently": "^10.0.4",
     "copy-webpack-plugin": "^14.0.0",
     "cross-env": "^10.1.0",
-    "css-loader": "^7.1.4",
+    "css-loader": "^7.1.5",
     "eslint": "^10.8.0",
     "eslint-import-resolver-alias": "^1.1.2",
     "eslint-import-resolver-typescript": "^4.4.5",
