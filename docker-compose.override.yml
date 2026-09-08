@@ -1,0 +1,10 @@
+services:
+  superset:
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+  superset-init:
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+  superset-worker:
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
